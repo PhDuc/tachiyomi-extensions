@@ -26077,6 +26077,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: CartoonMad",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.cartoonmad",
+    "apk": "tachiyomi-zh.cartoonmad-v1.4.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "動漫狂",
+        "lang": "zh",
+        "id": "6868792237587519643",
+        "baseUrl": "https://www.cartoonmad.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Comicabc",
     "pkg": "eu.kanade.tachiyomi.extension.zh.comicabc",
     "apk": "tachiyomi-zh.comicabc-v1.4.2.apk",
@@ -26232,10 +26249,10 @@
   {
     "name": "Tachiyomi: Happymh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.happymh",
-    "apk": "tachiyomi-zh.happymh-v1.4.17.apk",
+    "apk": "tachiyomi-zh.happymh-v1.4.18.apk",
     "lang": "zh",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "sources": [
       {
@@ -26413,6 +26430,23 @@
         "lang": "zh",
         "id": "1795888684783606321",
         "baseUrl": "https://manwa.fun"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MyComic",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.mycomic",
+    "apk": "tachiyomi-zh.mycomic-v1.4.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MyComic",
+        "lang": "zh",
+        "id": "9119537447562549661",
+        "baseUrl": "https://mycomic.com"
       }
     ]
   },
