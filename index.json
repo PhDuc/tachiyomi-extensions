@@ -15338,17 +15338,17 @@
   {
     "name": "Tachiyomi: Cartel de Manhwas",
     "pkg": "eu.kanade.tachiyomi.extension.es.carteldemanhwas",
-    "apk": "tachiyomi-es.carteldemanhwas-v1.4.36.apk",
+    "apk": "tachiyomi-es.carteldemanhwas-v1.4.37.apk",
     "lang": "es",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "sources": [
       {
         "name": "Cartel de Manhwas",
         "lang": "es",
         "id": "3519938166500360109",
-        "baseUrl": "https://carteldemanhwas.com"
+        "baseUrl": "https://carteldemanhwas.net"
       }
     ]
   },
