@@ -23353,10 +23353,10 @@
   {
     "name": "Tachiyomi: MangaKimi",
     "pkg": "eu.kanade.tachiyomi.extension.th.mangakimi",
-    "apk": "tachiyomi-th.mangakimi-v1.4.31.apk",
+    "apk": "tachiyomi-th.mangakimi-v1.4.32.apk",
     "lang": "th",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 1,
     "sources": [
       {
