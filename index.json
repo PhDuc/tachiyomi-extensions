@@ -18604,17 +18604,17 @@
   {
     "name": "Tachiyomi: Ikiru",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangatale",
-    "apk": "tachiyomi-id.mangatale-v1.4.38.apk",
+    "apk": "tachiyomi-id.mangatale-v1.4.39.apk",
     "lang": "id",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "sources": [
       {
         "name": "Ikiru",
         "lang": "id",
         "id": "1532456597012176985",
-        "baseUrl": "https://id.ikiru.wtf"
+        "baseUrl": "https://01.ikiru.wtf"
       }
     ]
   },
