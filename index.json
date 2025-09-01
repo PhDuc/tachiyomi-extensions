@@ -11062,10 +11062,10 @@
   {
     "name": "Tachiyomi: Hiveworks Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.hiveworks",
-    "apk": "tachiyomi-en.hiveworks-v1.4.10.apk",
+    "apk": "tachiyomi-en.hiveworks-v1.4.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "sources": [
       {
@@ -14409,18 +14409,18 @@
   {
     "name": "Tachiyomi: Philia Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.philiascans",
-    "apk": "tachiyomi-en.philiascans-v1.4.43.apk",
+    "apk": "tachiyomi-en.philiascans-v1.4.44.apk",
     "lang": "en",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "sources": [
       {
         "name": "Philia Scans",
         "lang": "en",
-        "id": "6713905350431854807",
+        "id": "940450670010209918",
         "baseUrl": "https://philiascans.org",
-        "versionId": 2
+        "versionId": 3
       }
     ]
   },
@@ -14600,6 +14600,24 @@
         "lang": "en",
         "id": "5160001879976399540",
         "baseUrl": "https://ravenscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: RD Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.rdscans",
+    "apk": "tachiyomi-en.rdscans-v1.4.42.apk",
+    "lang": "en",
+    "code": 42,
+    "version": "1.4.42",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "RD Scans",
+        "lang": "en",
+        "id": "2492552743813599108",
+        "baseUrl": "https://rdscans.com",
         "versionId": 1
       }
     ]
@@ -15266,6 +15284,24 @@
         "lang": "en",
         "id": "4870917758913494428",
         "baseUrl": "https://s2manga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Saturday Morning Breakfast Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.en.saturdaymorningbreakfastcomics",
+    "apk": "tachiyomi-en.saturdaymorningbreakfastcomics-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Saturday Morning Breakfast Comics",
+        "lang": "en",
+        "id": "3035799230093482569",
+        "baseUrl": "https://smbc-comics.com",
         "versionId": 1
       }
     ]
@@ -16173,6 +16209,24 @@
         "lang": "en",
         "id": "9161629559428486377",
         "baseUrl": "https://xrabohrok.github.io/WarMap/#/",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Wearehunger",
+    "pkg": "eu.kanade.tachiyomi.extension.en.wearehunger",
+    "apk": "tachiyomi-en.wearehunger-v1.4.42.apk",
+    "lang": "en",
+    "code": 42,
+    "version": "1.4.42",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Wearehunger",
+        "lang": "en",
+        "id": "7128834815853592616",
+        "baseUrl": "https://www.wearehunger.site",
         "versionId": 1
       }
     ]
@@ -22255,21 +22309,21 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf441.com",
+        "baseUrl": "https://wfwf442.com",
         "versionId": 1
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf441.com",
+        "baseUrl": "https://wfwf442.com",
         "versionId": 1
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf441.com",
+        "baseUrl": "https://wfwf442.com",
         "versionId": 1
       }
     ]
@@ -22835,18 +22889,18 @@
   {
     "name": "Tachiyomi: Fênix Manhwas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.fenixmanhwas",
-    "apk": "tachiyomi-pt.fenixmanhwas-v1.4.44.apk",
+    "apk": "tachiyomi-pt.fenixmanhwas-v1.4.45.apk",
     "lang": "pt-BR",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 0,
     "sources": [
       {
         "name": "Fênix Manhwas",
         "lang": "pt-BR",
-        "id": "2914425246461059721",
+        "id": "969957311690402964",
         "baseUrl": "https://fenixscan.xyz",
-        "versionId": 2
+        "versionId": 3
       }
     ]
   },
@@ -28073,10 +28127,10 @@
   {
     "name": "Tachiyomi: GoDa",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimhorg",
-    "apk": "tachiyomi-zh.baozimhorg-v1.4.34.apk",
+    "apk": "tachiyomi-zh.baozimhorg-v1.4.35.apk",
     "lang": "zh",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "sources": [
       {
@@ -28199,10 +28253,10 @@
   {
     "name": "Tachiyomi: Dm5",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dm5",
-    "apk": "tachiyomi-zh.dm5-v1.4.6.apk",
+    "apk": "tachiyomi-zh.dm5-v1.4.7.apk",
     "lang": "zh",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "sources": [
       {
@@ -28793,10 +28847,10 @@
   {
     "name": "Tachiyomi: Zaimanhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.zaimanhua",
-    "apk": "tachiyomi-zh.zaimanhua-v1.4.11.apk",
+    "apk": "tachiyomi-zh.zaimanhua-v1.4.12.apk",
     "lang": "zh",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "sources": [
       {
