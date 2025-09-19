@@ -13725,6 +13725,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Noxen Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.noxenscans",
+    "apk": "tachiyomi-en.noxenscans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Noxen Scans",
+        "lang": "en",
+        "id": "3116973119218453326",
+        "baseUrl": "https://noxenscan.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Nux Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.nuxscans",
     "apk": "tachiyomi-en.nuxscans-v1.4.1.apk",
@@ -14098,6 +14116,24 @@
         "lang": "en",
         "id": "4987511338130452019",
         "baseUrl": " https://porncomix.online",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Qi Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.qiscans",
+    "apk": "tachiyomi-en.qiscans-v1.4.10.apk",
+    "lang": "en",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Qi Scans",
+        "lang": "en",
+        "id": "7597513901538568173",
+        "baseUrl": "https://qiscans.org",
         "versionId": 1
       }
     ]
