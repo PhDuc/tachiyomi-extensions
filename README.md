@@ -1,16 +1,21 @@
-# Keiyoushi Extensions
+# Custom Tachiyomi Extensions Repository
 
-### Please give the repo a :star:
+⚠️ **IMPORTANT NOTICE**: This is a **custom repository** containing only specific extensions. This should **NOT be used as your main extension repository**. 
 
-| Build | Need Help? |
-|-------|---------|
-| [![CI](https://github.com/keiyoushi/extensions-source/actions/workflows/build_push.yml/badge.svg)](https://github.com/keiyoushi/extensions-source/actions/workflows/build_push.yml) | [![Discord](https://img.shields.io/discord/1193460528052453448.svg?label=discord&labelColor=7289da&color=2c2f33&style=flat)](https://discord.gg/3FbCpdKbdY) |
+**For the complete collection of extensions, please use the official repositories instead.**
+
+## What's Included
+This repository contains only a curated selection of extensions for Tachiyomi/Komikku.
 
 ## Usage
-**If you are new to repository/extensions, please read the [Keiyoushi Getting Started guide](https://keiyoushi.github.io/docs/guides/getting-started#adding-the-extension-repo) first.**
+**This is a custom repository with limited extensions. For the full extension collection, please use the official repositories:**
 
-* You can add our repo by visiting the [Keiyoushi Website](https://keiyoushi.github.io/add-repo)
-* Otherwise, copy & paste the following URL: https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json
+* **Official Keiyoushi Repository**: https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json
+* **Official Tachiyomi Extensions**: https://raw.githubusercontent.com/tachiyomiorg/tachiyomi-extensions/repo/index.min.json
+
+## Custom Repository URL
+If you specifically need only the extensions included in this repository, you can use:
+https://raw.githubusercontent.com/PhDuc/extensions/repo/index.min.json
 
 ### Source Code
 
