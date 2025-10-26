@@ -1,8 +1,9 @@
-# Custom Tachiyomi Extensions Repository
+# [WIP] Custom Tachiyomi Extensions Repository
 
 ⚠️ **IMPORTANT NOTICE**: This is a **custom repository** containing only specific extensions. This should **NOT be used as your main extension repository**. 
 
 **For the complete collection of extensions, please use the official repositories instead.**
+**Additionally, a new source APK will need to be built besides just updating the URL entry here.**
 
 ## What's Included
 This repository contains only a curated selection of extensions for Tachiyomi/Komikku.
